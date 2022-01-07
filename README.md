@@ -2,10 +2,9 @@
 
 - 👀 I’m interested in -
   * Android Developent
-  * Web Development
+  * Backend Development
 - 🌱 I’m currently learning 
   * Kotlin 
-  * ReactJs 
 - 💞️ I’m looking to collaborate on Android and Web Frontend
 - 📫 How to reach me ...
 
