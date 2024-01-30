@@ -3,8 +3,8 @@
 - 👀 I’m interested in -
   * Android Developent
   * Backend Development
-- 🌱 I’m currently learning 
-  * Kotlin 
+  * Kotlin
+    
 - 💞️ I’m looking to collaborate on Android and Web Frontend
 - 📫 How to reach me ...
 
